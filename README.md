@@ -59,3 +59,11 @@ Once you access the link, you can use the AI to:
 ---
 
 **Note:** For the best experience, please log in with your Google account.
+<p align="left">
+  <a href="https://ko-fi.com/tronghoang_dyor">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+  </a>
+  <a href="https://paypal.me/TrongHoangDyor"> 
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  </a>
+</p>
